@@ -3,4 +3,6 @@ Thomas Rowe
 
 "First comment"
 
-"This is a change on newbranch"
+"testbranch change"
+
+"this is a change in newbranch"
